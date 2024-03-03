@@ -1,0 +1,13 @@
+a {
+  text-decoration: none;
+  color: lightgray;
+}
+
+.active {
+  color: rgb(0, 0, 0);
+  text-shadow: 1px 1px 1px black;
+}
+
+.home img{
+  width: 300px;
+}
